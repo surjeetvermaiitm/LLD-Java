@@ -1,4 +1,4 @@
-package com.activemesa.solid.dip;
+// package com.activemesa.solid.dip;
 
 import org.javatuples.Triplet;
 

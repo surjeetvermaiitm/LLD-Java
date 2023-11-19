@@ -1,4 +1,4 @@
-package com.activemesa.solid.lsp;
+
 
 class Rectangle
 {
@@ -92,6 +92,10 @@ class LSPDemo
   public static void main(String[] args) {
     Rectangle rc = new Rectangle(2, 3);
     useIt(rc);
+
+    Square sq1=new Square(); //it give wrong substitution
+    sq1.setWidth(5);
+    useIt(sq1);
 
     Rectangle sq = new Square();
     sq.setHeight(5);

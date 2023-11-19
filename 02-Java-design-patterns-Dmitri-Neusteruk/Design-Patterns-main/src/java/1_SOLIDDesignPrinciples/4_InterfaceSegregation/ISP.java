@@ -1,4 +1,4 @@
-package com.activemesa.solid.isp;
+
 
 class Document
 {
