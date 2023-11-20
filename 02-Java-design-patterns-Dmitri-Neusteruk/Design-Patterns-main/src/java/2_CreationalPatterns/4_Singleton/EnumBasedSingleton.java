@@ -1,4 +1,4 @@
-package com.activemesa.creational.singleton.singleton;
+// package com.activemesa.creational.singleton.singleton;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package com.activemesa.creational.singleton.multiton;
+// package com.activemesa.creational.singleton.multiton;
 
 import java.util.HashMap;
 

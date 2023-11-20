@@ -1,4 +1,4 @@
-package com.activemesa.creational.singleton.exercise;
+// package com.activemesa.creational.singleton.exercise;
 
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
