@@ -2,7 +2,7 @@
 
 ![1703601960936](image/solid/1703601960936.png)
 
-open close principle (try to think in )
+open close principle (try to think in strategy pattern)
 ![1703602849386](image/solid/1703602849386.png)![1703603066680](image/solid/1703603066680.png)
 
 ![1703603176444](image/solid/1703603176444.png)
