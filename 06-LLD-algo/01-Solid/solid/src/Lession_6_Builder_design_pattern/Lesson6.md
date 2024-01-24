@@ -24,3 +24,5 @@ public class ProductObj{
 
 }
 ```
+
+application useCase: Bulder Lombok annotation, grpc java,
