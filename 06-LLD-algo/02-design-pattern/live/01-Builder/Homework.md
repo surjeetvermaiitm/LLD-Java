@@ -40,3 +40,11 @@ Evaluation Criteria
     •	Code quality, including readability, maintainability, and adherence to language-specific idioms.
     •	Proper validation and error handling.
     •	Comprehensive test coverage demonstrating different use cases.
+
+![1706801393293](image/Homework/1706801393293.png)
+
+![1706801403384](image/Homework/1706801403384.png)
+
+![1706801417899](image/Homework/1706801417899.png)
+
+![1706801463418](image/Homework/1706801463418.png)
