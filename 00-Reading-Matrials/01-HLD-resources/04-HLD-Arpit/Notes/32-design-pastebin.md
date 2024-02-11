@@ -1,0 +1,13 @@
+![1707674172881](image/32-design-pastebin/1707674172881.png)
+
+![1707674190273](image/32-design-pastebin/1707674190273.png)
+
+![1707674206319](image/32-design-pastebin/1707674206319.png)
+
+![1707674220890](image/32-design-pastebin/1707674220890.png)
+
+![1707674237881](image/32-design-pastebin/1707674237881.png)
+
+![1707674257098](image/32-design-pastebin/1707674257098.png)
+
+![1707674271580](image/32-design-pastebin/1707674271580.png)

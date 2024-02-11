@@ -1,0 +1,7 @@
+![1707669925650](image/02-how-to-approach/1707669925650.png)
+
+![1707669949701](image/02-how-to-approach/1707669949701.png)
+
+![1707669967531](image/02-how-to-approach/1707669967531.png)
+
+![1707669982671](image/02-how-to-approach/1707669982671.png)

@@ -1,0 +1,7 @@
+![1707672534672](image/21-blob-storage-s3/1707672534672.png)
+
+![1707672550647](image/21-blob-storage-s3/1707672550647.png)
+
+![1707672571896](image/21-blob-storage-s3/1707672571896.png)
+
+![1707672586966](image/21-blob-storage-s3/1707672586966.png)
