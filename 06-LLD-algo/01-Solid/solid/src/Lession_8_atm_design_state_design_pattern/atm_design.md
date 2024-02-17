@@ -1,0 +1,23 @@
+![1708098318921](image/atm_design/1708098318921.png)
+
+![1708098329765](image/atm_design/1708098329765.png)
+
+![1708098396534](image/atm_design/1708098396534.png)
+
+![1708098450923](image/atm_design/1708098450923.png)
+
+![1708098518170](image/atm_design/1708098518170.png)
+
+![1708099122217](image/atm_design/1708099122217.png)
+
+UPI flow
+
+![1708099328355](image/atm_design/1708099328355.png)
+
+States of ATM machine
+
+![1708099838733](image/atm_design/1708099838733.png)
+
+![1708099931737](image/atm_design/1708099931737.png)
+
+![1708099974327](image/atm_design/1708099974327.png)
